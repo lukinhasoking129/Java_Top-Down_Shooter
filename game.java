@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-public class adws extends JFrame implements KeyListener {
+public class game extends JFrame implements KeyListener {
 
     private double x = 100; // posição inicial X
     private double y = 100; // posição inicial Y
